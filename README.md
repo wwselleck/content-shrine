@@ -20,11 +20,14 @@ This repo exists to document the best of the best content I come across.
 
 🧵 Forum Post/Thread
 
+🎨 Comic/Art
+
 # Computers
 Just anything to generally do with computers that doesn't fit any other category.
 - 📃 [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem)
 - 
-
+# Databases
+- 🎨 [XKCD - Little Bobby Tables](https://xkcd.com/327/)
 # Front-End Web Development
 - 📃 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - 📃 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) - Goes more in-depth on layout performance optimization than the title would imply
