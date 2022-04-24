@@ -20,8 +20,10 @@ This repo exists to document the best of the best content I come across.
 
 🧵 Forum Post/Thread
 
-# General (should be moved somewhere more specific eventually)
-- 📃 [Paul Graham - How To Disagree](http://www.paulgraham.com/disagree.html)
+# Computers
+Just anything to generally do with computers that doesn't fit any other category.
+- 📃 [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem)
+- 
 
 # Front-End Web Development
 - 📃 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
@@ -38,4 +40,7 @@ This repo exists to document the best of the best content I come across.
 - 🧵 [Ask HN: What has made you a better problem solver in software engineering?](https://news.ycombinator.com/item?id=21659537)
 - 📃 Gergely Orosz - Software Engineers Leading Projects [Part 1](https://newsletter.pragmaticengineer.com/p/engineers-leading-projects?s=r) [Part 2](https://newsletter.pragmaticengineer.com/p/engineers-leading-projects-part-2?s=r)
 - 📺 [The four kinds of documentation, and why you need to understand what they are](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/)
+
+# Uncategorized (should be moved somewhere more specific eventually)
+- 📃 [Paul Graham - How To Disagree](http://www.paulgraham.com/disagree.html)
 
