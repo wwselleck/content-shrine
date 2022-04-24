@@ -42,6 +42,9 @@ Just anything to generally do with computers that doesn't fit any other category
 # Programming Languages
 - 📃 [The seven programming ur-languages](https://madhadron.com/posts/seven_languages.html?utm_source=pocket_mylist)
 
+
+# Security
+- 📃 [Meltdown & Spectre](https://meltdownattack.com/)
 # Software Engineering
 - 📃 📺 [C4 Diagramming Model](https://c4model.com/)
 - 🧵 [Ask HN: What has made you a better problem solver in software engineering?](https://news.ycombinator.com/item?id=21659537)
