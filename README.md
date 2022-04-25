@@ -25,6 +25,10 @@ It can also be about anything: programming, technology, sports, video games, any
 
 🎨 Comic/Art
 
+## `career`
+- 📺 [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+- 📃 [Guido van Rossum - King's Day Speech](http://neopythonic.blogspot.com/2016/04/kings-day-speech.html?m=1)
+
 
 ## `computers`
 Just anything to generally do with computers that doesn't fit any other category.
@@ -42,6 +46,7 @@ Just anything to generally do with computers that doesn't fit any other category
 ## `programming`
 - 📃 [How I write backends](https://github.com/fpereiro/backendlore)
   - A nice "grounding" article that details how to build a back-end server in the simplest way, and some methods for scaling. Helpful for myself to remember that not every app needs to be perfectly architected or have a sophisticated deployment process right from the start.
+- 📃 ["How to become a dramatically better programmer"](https://recurse.henrystanley.com/post/better/)
 
 
 ## `programming/authn-authz`
