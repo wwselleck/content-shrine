@@ -53,6 +53,9 @@ Just anything to generally do with computers that doesn't fit any other category
 - 📃 [RFC-6749 The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) 
   - Reading the actual RFC is the only thing that got me to actually understand how OAuth2 works
 
+## `programming/databases`
+- 📃 [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
+
 ## `programming/distributed-systems`
 - 📃 [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - 📖 [Designing Data-Intensive Applications](https://dataintensive.net/)
