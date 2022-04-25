@@ -1,11 +1,14 @@
 # 🙏🔥content-shrine🔥🙏
 This repo exists to document the best of the best content I come across.
 
+This can be any kind of content: informational, educational, entertaining, funny, whatever
+It can also be about anything: programming, technology, sports, video games, anything
+
 ✔️ Signals that something is worth adding:
-- It is a foundational work of a subject I am invested in
-- I get anxiety from the thought that I might lose it or forget about it
-- It details processes or patterns that I want to use myself
+- It is an iconic and/or foundational work of a field I'm interested in
+- It details processes or patterns that I aspire to use myself
 - It's something worth revisiting frequently
+- I get anxiety from the thought that I might lose it or forget about it
 
 ❌ Signals that something is **not** worth adding:
 - It's a tutorial
@@ -22,35 +25,41 @@ This repo exists to document the best of the best content I come across.
 
 🎨 Comic/Art
 
-# Computers
+
+## `computers`
 Just anything to generally do with computers that doesn't fit any other category.
 - 📃 [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem)
-- 
 
-# Front-End Web Development
+
+## `programming`
+
+## `programming/distributed-systems`
+- 📃 [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
+## `programming/front-end`
 - 📃 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - 📃 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) - Goes more in-depth on layout performance optimization than the title would imply
 
-# Javascript/Typescript
-- 📖 [Effective Typescript](https://effectivetypescript.com/)
-
-# Programming Humor
+## `programming/humor`
 - 📃 [IP over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
 - 🎨 [XKCD - Little Bobby Tables](https://xkcd.com/327/)
 
-
-# Programming Languages
+## `programming/languages`
 - 📃 [The seven programming ur-languages](https://madhadron.com/posts/seven_languages.html?utm_source=pocket_mylist)
 
+## `programming/languages/javascript-typescript`
+- 📖 [Effective Typescript](https://effectivetypescript.com/)
 
-# Security
+## `programming/security`
 - 📃 [Meltdown & Spectre](https://meltdownattack.com/)
-# Software Engineering
+
+
+## `programming/software-engineering`
 - 📃 📺 [C4 Diagramming Model](https://c4model.com/)
 - 🧵 [Ask HN: What has made you a better problem solver in software engineering?](https://news.ycombinator.com/item?id=21659537)
 - 📃 Gergely Orosz - Software Engineers Leading Projects [Part 1](https://newsletter.pragmaticengineer.com/p/engineers-leading-projects?s=r) [Part 2](https://newsletter.pragmaticengineer.com/p/engineers-leading-projects-part-2?s=r)
 - 📺 [The four kinds of documentation, and why you need to understand what they are](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/)
 
-# Uncategorized (should be moved somewhere more specific eventually)
+## `uncategorized`
 - 📃 [Paul Graham - How To Disagree](http://www.paulgraham.com/disagree.html)
 
