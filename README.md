@@ -47,6 +47,11 @@ Just anything to generally do with computers that doesn't fit any other category
 - 📃 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - 📃 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) 
   - Goes more in-depth on layout performance optimization than the title would imply
+- 📃[DOM Programming Recipes](https://htmldom.dev/)
+
+## `programming/git` 
+- 📃 [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+  - What to do when X goes wrong in git
 
 ## `programming/humor`
 - 📃 [IP over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
