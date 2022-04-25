@@ -30,16 +30,23 @@ It can also be about anything: programming, technology, sports, video games, any
 Just anything to generally do with computers that doesn't fit any other category.
 - 📃 [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem)
 
+## `programming`
+- 📃 [How I write backends](https://github.com/fpereiro/backendlore)
+  - A nice "grounding" article that details how to build a back-end server in the simplest way, and some methods for scaling. Helpful for myself to remember that not every app needs to be perfectly architected or have a sophisticated deployment process right from the start.
+
 
 ## `programming/authn-authz`
-- 📃 [RFC-6749 The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) - Reading the actual RFC is the only thing that got me to actually understand how OAuth2 works
+- 📃 [RFC-6749 The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) 
+  - Reading the actual RFC is the only thing that got me to actually understand how OAuth2 works
 
 ## `programming/distributed-systems`
 - 📃 [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- 📖 [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 ## `programming/front-end`
 - 📃 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
-- 📃 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) - Goes more in-depth on layout performance optimization than the title would imply
+- 📃 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) 
+  - Goes more in-depth on layout performance optimization than the title would imply
 
 ## `programming/humor`
 - 📃 [IP over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
