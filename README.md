@@ -34,6 +34,11 @@ Just anything to generally do with computers that doesn't fit any other category
 ## `computers/linux`
 - 📃 [Coping with the UEFI Boot Proces](https://www.linux-magazine.com/Online/Features/Coping-with-the-UEFI-Boot-Process)
 
+## `computers/networking`
+- 📃 [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
+
+
+
 ## `programming`
 - 📃 [How I write backends](https://github.com/fpereiro/backendlore)
   - A nice "grounding" article that details how to build a back-end server in the simplest way, and some methods for scaling. Helpful for myself to remember that not every app needs to be perfectly architected or have a sophisticated deployment process right from the start.
