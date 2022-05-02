@@ -5,7 +5,7 @@ This can be any kind of content: informational, educational, entertaining, funny
 It can also be about anything: programming, technology, sports, video games, anything
 
 ✔️ Signals that something is worth adding:
-- It is an iconic and/or foundational work of a field I'm interested in
+- It is an iconic and/or foundational work of a subject I'm interested in
 - It details processes or patterns that I aspire to use myself
 - It's something worth revisiting frequently
 - I get anxiety from the thought that I might lose it or forget about it
@@ -41,7 +41,9 @@ Just anything to generally do with computers that doesn't fit any other category
 ## `computers/networking`
 - 📃 [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
 
-
+## `internet`
+Anything relating to internet history or culture
+- 📺 [Down the Rabbit Hole - TempleOS](https://www.youtube.com/watch?v=UCgoxQCf5Jg)
 
 ## `programming`
 - 📃 [How I write backends](https://github.com/fpereiro/backendlore)
