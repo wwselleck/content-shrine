@@ -45,6 +45,10 @@ Just anything to generally do with computers that doesn't fit any other category
 Anything relating to internet history or culture
 - 📺 [Down the Rabbit Hole - TempleOS](https://www.youtube.com/watch?v=UCgoxQCf5Jg)
 
+## `misc`
+- 📺 [Lemmino - The Vanishing of Flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
+
+
 ## `programming`
 - 📃 [How I write backends](https://github.com/fpereiro/backendlore)
   - A nice "grounding" article that details how to build a back-end server in the simplest way, and some methods for scaling. Helpful for myself to remember that not every app needs to be perfectly architected or have a sophisticated deployment process right from the start.
