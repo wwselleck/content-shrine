@@ -74,6 +74,7 @@ Just anything to generally do with computers that doesn't fit any other category
 - 📃 [IP over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
 - 🎨 [XKCD - Little Bobby Tables](https://xkcd.com/327/)
 - 🎨 [XKCD - Workflow](https://xkcd.com/1172/)
+- 📃 [418 - I'm a teapot](https://datatracker.ietf.org/doc/html/rfc7168#section-2.3.3)
 
 ## `programming/languages`
 - 📃 [The seven programming ur-languages](https://madhadron.com/posts/seven_languages.html?utm_source=pocket_mylist)
