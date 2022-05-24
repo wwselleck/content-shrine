@@ -40,6 +40,8 @@ Just anything to generally do with computers that doesn't fit any other category
 
 ## `computers/networking`
 - 📃 [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
+- 📃 [The 500 Mile Email](http://web.mit.edu/jemorris/humor/500-miles)
+
 
 ## `internet`
 Anything relating to internet history or culture
@@ -87,6 +89,10 @@ Anything relating to internet history or culture
 
 ## `programming/languages/javascript-typescript`
 - 📖 [Effective Typescript](https://effectivetypescript.com/)
+
+## `programming/shell`
+- 📃 [Fork Bomb](https://en.wikipedia.org/wiki/Fork_bomb)
+  - https://askubuntu.com/questions/159491/why-did-the-command-make-my-system-lag-so-badly-i-had-to-reboot
 
 ## `programming/security`
 - 📃 [Meltdown & Spectre](https://meltdownattack.com/)
