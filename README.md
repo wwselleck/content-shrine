@@ -84,6 +84,10 @@ Anything relating to internet history or culture
 - 🎨 [XKCD - Workflow](https://xkcd.com/1172/)
 - 📃 [418 - I'm a teapot](https://datatracker.ietf.org/doc/html/rfc7168#section-2.3.3)
 
+## `programming/indie`
+- 🧵 [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
+
+
 ## `programming/languages`
 - 📃 [The seven programming ur-languages](https://madhadron.com/posts/seven_languages.html?utm_source=pocket_mylist)
 
