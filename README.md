@@ -1,8 +1,7 @@
 # 🙏🔥content-shrine🔥🙏
 This repo exists to document the best of the best content I come across.
 
-This can be any kind of content: informational, educational, entertaining, funny, whatever
-It can also be about anything: programming, technology, sports, video games, anything
+This can be any kind of content: informational, educational, entertaining, funny, whatever. It can also be about anything: programming, technology, sports, video games, anything
 
 ✔️ Signals that something is worth adding:
 - It is an iconic and/or foundational work of a subject I'm interested in
