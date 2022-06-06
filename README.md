@@ -66,6 +66,7 @@ Anything relating to internet history or culture
 ## `programming/distributed-systems`
 - 📃 [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - 📖 [Designing Data-Intensive Applications](https://dataintensive.net/)
+- 📃 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## `programming/front-end`
 - 📃 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
