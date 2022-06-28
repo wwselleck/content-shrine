@@ -55,6 +55,10 @@ Anything relating to internet history or culture
   - A nice "grounding" article that details how to build a back-end server in the simplest way, and some methods for scaling. Helpful for myself to remember that not every app needs to be perfectly architected or have a sophisticated deployment process right from the start.
 - 📃 ["How to become a dramatically better programmer"](https://recurse.henrystanley.com/post/better/)
 
+## `programming/api`
+- 🎥 [How to Design a Good API and Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+- 📜 [json:api](https://jsonapi.org/) - General spec for a JSON-based API
+- 📝 [Google API Design Guide](https://cloud.google.com/apis/design)
 
 ## `programming/authn-authz`
 - 📃 [RFC-6749 The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) 
