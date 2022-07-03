@@ -64,6 +64,7 @@ Anything relating to internet history or culture
 - 📃 [RFC-6749 The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) 
   - Reading the actual RFC is the only thing that got me to actually understand how OAuth2 works
 - 📃 [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+- 📃 [The problem with OAuth for Authentication.](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html)
 
 ## `programming/databases`
 - 📃 [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
