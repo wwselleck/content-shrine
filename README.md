@@ -100,6 +100,10 @@ Anything relating to internet history or culture
 ## `programming/languages/javascript-typescript`
 - 📖 [Effective Typescript](https://effectivetypescript.com/)
 
+## `programming/languages/python`
+- 📖 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+  - More of a "best practices" book than a tutorial on the language itself
+
 ## `programming/shell`
 - 📃 [Fork Bomb](https://en.wikipedia.org/wiki/Fork_bomb)
   - https://askubuntu.com/questions/159491/why-did-the-command-make-my-system-lag-so-badly-i-had-to-reboot
