@@ -49,6 +49,8 @@ Anything relating to internet history or culture
 ## `misc`
 - 📺 [Lemmino - The Vanishing of Flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
 
+## `philosophy`
+- 📃 [Hegelian Dialectic](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic)
 
 ## `programming`
 - 📃 [How I write backends](https://github.com/fpereiro/backendlore)
