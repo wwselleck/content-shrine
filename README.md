@@ -52,6 +52,9 @@ Anything relating to internet history or culture
 ## `philosophy`
 - 📃 [Hegelian Dialectic](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic)
 
+## `productivity`
+- 📖 [Cal Newport - Deep Work](https://www.calnewport.com/books/deep-work/)
+
 ## `programming`
 - 📃 [How I write backends](https://github.com/fpereiro/backendlore)
   - A nice "grounding" article that details how to build a back-end server in the simplest way, and some methods for scaling. Helpful for myself to remember that not every app needs to be perfectly architected or have a sophisticated deployment process right from the start.
