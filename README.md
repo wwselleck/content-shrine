@@ -123,6 +123,9 @@ Anything relating to internet history or culture
 - 📃 Gergely Orosz - Software Engineers Leading Projects [Part 1](https://newsletter.pragmaticengineer.com/p/engineers-leading-projects?s=r) [Part 2](https://newsletter.pragmaticengineer.com/p/engineers-leading-projects-part-2?s=r)
 - 📺 [The four kinds of documentation, and why you need to understand what they are](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/)
 
+## `work`
+- [Always Do Extra](https://www.bennorthrop.com/Essays/2021/always-do-extra.php)
+
 ## `work/problem-solving`
 - [Building your mental toolbox for solving coding problems](http://joostdevblog.blogspot.com/2015/07/building-your-mental-toolbox-for.html)
 
