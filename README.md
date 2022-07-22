@@ -40,6 +40,7 @@ Just anything to generally do with computers that doesn't fit any other category
 ## `computers/networking`
 - 📃 [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
 - 📃 [The 500 Mile Email](http://web.mit.edu/jemorris/humor/500-miles)
+- 📃 [Understanding how Facebook disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/?utm_source=pocket_mylist)
 
 
 ## `internet`
